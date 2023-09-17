@@ -1,0 +1,3 @@
+name: EBG Test
+dependencies:
+-python=3.10
